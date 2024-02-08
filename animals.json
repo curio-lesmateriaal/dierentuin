@@ -1,0 +1,35 @@
+{
+    "animals": [
+      {
+        "name": "Lion",
+        "emoticon": "🦁",
+        "amount": 4
+      },
+      {
+        "name": "Elephant",
+        "emoticon": "🐘",
+        "amount": 2
+      },
+      {
+        "name": "Giraffe",
+        "emoticon": "🦒",
+        "amount": 3
+      },
+      {
+        "name": "Penguin",
+        "emoticon": "🐧",
+        "amount": 10
+      },
+      {
+        "name": "Kangaroo",
+        "emoticon": "🦘",
+        "amount": 6
+      },
+      {
+        "name": "Monkey",
+        "emoticon": "🐒",
+        "amount": 8
+      }
+    ]
+  }
+  
